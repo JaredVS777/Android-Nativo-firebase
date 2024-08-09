@@ -3,7 +3,7 @@ Aplicación móvil con Android Nativo y Firebase (Authentication y Storage) la c
 La aplicación esta firmada para el APK y AAB.
 
 ## Pantalla principal
-![WhatsApp Image 2024-08-09 at 14 30 41_ddbabe79](https://github.com/user-attachments/assets/76132850-5c1f-4f53-ad8f-11270aafc953)
+![WhatsApp Image 2024-08-09 at 14 29 20_dc08b1b4](https://github.com/user-attachments/assets/bca01cf2-b6b9-4a3f-8dcd-bdb2b0c6bf30)
 
 ## Cargar archivos de la multimedia del dispositivo
 ![WhatsApp Image 2024-08-09 at 14 30 41_9b6232bb](https://github.com/user-attachments/assets/04cf2a6d-2d16-471d-8ce0-1e0ced68da66)
